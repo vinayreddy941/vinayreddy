@@ -1,5 +1,4 @@
-/*=============== EMAIL JS ===============*/
-/*=============== EMAIL JS ===============*/
+
 const contactForm = document.getElementById('contact-form');
 const contactMessage = document.getElementById('contact-message');
 
